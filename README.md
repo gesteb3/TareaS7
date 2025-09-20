@@ -40,7 +40,7 @@ conexion = psycopg2.connect(
 
 # Crear cursor para ejecutar comandos SQL
 cursor = conexion.cursor()
-
+```
 
 El flujo de operaciones del script es el siguiente:
 
